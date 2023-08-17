@@ -2,4 +2,10 @@
 
 CLI app that reads a file and replaces a specific word by another word.
 
-The purpose of this little project is to learn how to read and write files in Go.
+To run it, type the following command:
+
+`go run main.go text.txt file document`
+
+This will replace the word "file" in text.txt by the word "document."
+
+The purpose of this little project was learning how to read and write files in Go.
